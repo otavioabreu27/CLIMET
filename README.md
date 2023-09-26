@@ -1,2 +1,4 @@
-# CLIMET
+# CLIMET 🌎
 Open Source CLI Meteorological Data
+
+
